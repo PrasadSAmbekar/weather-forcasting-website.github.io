@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #222;
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/images6/Portrait-HD-Wallpaper-Free-download.jpg');
+}
+
+.card {
+    background: #0000000;
+    /*colgroup:-moz-only-whitespace;*/
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+}
+
+.search{
+    display: flex;
+    alogn-items: center;
+    justify-content: center;
+}
